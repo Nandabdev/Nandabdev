@@ -39,10 +39,9 @@
 <div> 
    <a href="https://www.instagram.com/mf.tech01/" target="_blank"><img src="https://img.shields.io/badge/MF.tech01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-  ![Snake animation](https://github.com/Nandabdev/Nandabdev/blob/main/snake.svg)
+   ![Snake animation](https://github.com/Nandabdev/Nandabdev/blob/main/cobrinha.svg)
 </div>
-   
+
 
 <!--
 **Nandabdev/Nandabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
