@@ -25,7 +25,7 @@
    <a href="https://github.com/Nandabdev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandabdev&layout=compact&langs_count=6&theme=neon"/>
 
-  ![snake gif](https://github.com/nandabdev/nandabdev/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Nandabdev/Nandabdev/blob/output/github-contribution-grid-snake.svg)
  </br>
 </div>
 
