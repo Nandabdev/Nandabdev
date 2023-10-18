@@ -5,7 +5,7 @@
 
   ⚡ Uma desenvolvedora em desenvolvimento 👩‍💻  
   ⚡ Amo séries, filmes, músicas, dança e
- o que a vida possa oferecer de melhor ❤
+ o que a vida oferece de melhor ❤
 
 </div>
 
